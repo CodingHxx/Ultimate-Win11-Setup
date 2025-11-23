@@ -140,6 +140,26 @@ You can follow the steps below, or jump to the [**setup video**](https://youtu.b
 
 ---
 
+## 📝 VSCode
+> [!NOTE] 
+> This is just the base settings of my VSCode. Your(s) might look different than mine because I use many extensions along side that. I will try keeping my **Extensions** list up-to-date.
+
+Visual Studio Code (VS Code) is a free, open-source code editor by Microsoft for building and debugging modern web and cloud applications.
+
+**⚙️ Installation:**  
+You can follow the steps below, or jump to the [setup video](https://www.youtube.com/watch?v=your-video-id). (Video will be added soon)
+- Install [**VSCode**](https://code.visualstudio.com/).
+- Copy the config file:  
+  `VSCode/Settings/settings.json → %APPDATA%\Code\User\settings.json`.  
+- Restart **VSCode** for the changes to take effect.
+
+**🔧 Extensions:**
+- [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) - 🦌 Soothing pastel theme for VSCode.
+- [Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) - 🦊 Soothing pastel icon theme for VSCode.
+- [VSCode Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - Puts a pet in your code editor to boost productivity. 
+
+---
+
 ## 🪟 AppName
 > [!NOTE] 
 > This setup is compatible with the latest version of **AppName**.
